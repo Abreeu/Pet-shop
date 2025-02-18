@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PETSHOP
 
-## Getting Started
+![Tela-Inicial](./public/Petshop-capa.png)
 
-First, run the development server:
+## Descrição <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" />
+ Page desenvolvida em Next.JS, oferece uma experiência dinâmica, com sessões em movimento durante o scroll, proporcionando uma navegação fluida e interativa. Seu design responsivo e moderno foi pensado para otimizar a experiência do usuário, criando uma atmosfera agradável e envolvente.
+
+### Objetivo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
+
+Tem como objetivo oferecer uma plataforma de fácil navegação, otimizada para desempenho e acessibilidade, criando uma experiência satisfatória.
+
+## Demostração do Layout <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" />
+
+![Tela-Funcional](./public/Petshop-tela.png)
+
+## Como Utilizar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" style="margin-left: 10px;"  />
+
+1. **Clone o Repositório**
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+ git clone ENDEREÇO REPOSITÓRIO
+```
+2. **Rodar**
+- Entrar na pasta raiz utilizando terminal !
+```bash
+cd PASTA
+
+ npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tecnologias Utilizadas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="25" height="25" />
 
-## Learn More
+1.JavaScript <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"  width="25" height="25" style="margin-left: 10px;" />
 
-To learn more about Next.js, take a look at the following resources:
+2.TailWind <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="25" height="25" style="margin-left: 10px;" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3.Next <img src="https://skillicons.dev/icons?i=next" alt="Next" width="25" height="25" style="margin-left: 10px;" />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Autor
 
-## Deploy on Vercel
+[Abreeu](https://www.linkedin.com/in/abreeu/)
+<img src="https://skillicons.dev/icons?i=linkedin" alt="JavaScript" width="25" height="25" style="margin-left: 10px;" />
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Licença
+
+Este projeto está sob a licença MIT. Você é livre para usá-lo como quiser, tanto para uso pessoal quanto comercial.
+
+
